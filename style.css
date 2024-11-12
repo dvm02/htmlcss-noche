@@ -1,9 +1,27 @@
-h1{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: blue;
+
+
+
+
+#information{
+    background: palegoldenrod;
 }
 
-h3{
-    background: black; 
+#contact{
+    background:orangered;
+}
+
+#contact h3{
+    background-color: black;
     color: yellow;
 }
+
+.style-text01{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: fuchsia;
+    font-size: 50px;
+}
+
+.style-box01{
+    background: palegreen;
+}
+
